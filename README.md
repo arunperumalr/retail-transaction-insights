@@ -187,3 +187,8 @@ This pie chart shows the distribution of different payment methods used by custo
 
 This heatmap compares revenue across different seasons and customer categories, helping identify customer groups that contribute the most revenue during specific seasons.
 ![Task 6.3 Output](screenshots/task6_revenue_season_customer_category.png)
+
+## Dataset
+
+The original dataset is excluded from GitHub because it exceeds GitHub's file size limit.
+You can place your own retail_transactions.csv file inside: data_set/

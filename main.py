@@ -5,7 +5,7 @@ from ast import literal_eval
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
-RETAIL_CSV = BASE_DIR / "data_set" / "retail_transactions.csv"
+RETAIL_CSV = BASE_DIR / "data_set" / "sample_retail_transactions.csv"
 df = pd.read_csv(RETAIL_CSV)
 
 # =========================
